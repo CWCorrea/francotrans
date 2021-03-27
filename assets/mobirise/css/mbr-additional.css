@@ -819,7 +819,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-ssTaxhofty .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3rem);
+    max-height: calc(98.5vh - 4.1rem);
   }
 }
 .cid-ssTaxhofty .navbar.collapsed .dropdown-menu .dropdown-submenu {
